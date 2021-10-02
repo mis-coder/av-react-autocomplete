@@ -10,6 +10,12 @@
 
 - So this component can be really performant when making api hits based on user input.
 
+- demo:
+
+https://user-images.githubusercontent.com/51118723/135025447-9a477e7b-86e0-4f04-80fb-ecb441857edd.mp4
+
+
+
 ### Steps to run locally:
 
 - clone this repo
@@ -21,3 +27,4 @@
 ### Side Notes:
 
 - this autocomplete component can have more features and the existing features can always be improved. So if you have ideas to make it better do let me know :)
+
