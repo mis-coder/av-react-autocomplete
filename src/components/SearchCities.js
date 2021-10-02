@@ -12,7 +12,7 @@ const SearchCities = () => {
     console.log("request made");
     if (val) {
       const cityNames = cities
-        .filter((city) => city.name.toLowerCase().includes(val))
+        .filter((city) => city.name.toLowerCase().includes(val.toLowerCase()))
         .map((city) => city.name);
       setOptions(cityNames);
 

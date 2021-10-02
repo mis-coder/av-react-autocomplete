@@ -4,6 +4,10 @@
 
 - The best part about this autocomplete is that it supports debouncing.
 
+- It supports navigation through arrow keys.
+
+- The matching characters are highlighted in the available suggestions.
+
 - So this component can be really performant when making api hits based on user input.
 
 ### Steps to run locally:

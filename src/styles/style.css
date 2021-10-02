@@ -58,10 +58,15 @@
   border-radius: 0.2rem;
 }
 
-.suggestions > li:hover {
+.suggestions .active-option {
   background-color: #4375e7;
   color: #fff;
   cursor: pointer;
+}
+
+.match {
+  font-weight: bolder;
+  color: #000058;
 }
 
 @media screen and (max-width: 1000px) {
