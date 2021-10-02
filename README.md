@@ -11,7 +11,8 @@
 - So this component can be really performant when making api hits based on user input.
 
 - demo:
-https://user-images.githubusercontent.com/51118723/135711873-cc30d61a-59ff-4e25-8259-d000832f3c02.mp4
+   
+   https://user-images.githubusercontent.com/51118723/135711873-cc30d61a-59ff-4e25-8259-d000832f3c02.mp4
 
 
 
